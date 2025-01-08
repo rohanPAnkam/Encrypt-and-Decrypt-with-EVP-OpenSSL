@@ -1,0 +1,9 @@
+.vscode
+openssl/
+math.o
+math.cpp
+sample.o
+sample.cpp
+.DS_Store
+math
+sample
